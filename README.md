@@ -8,6 +8,12 @@ If you want to consult (visit) the site, click here:
 
 👉 **https://echoenvoy.github.io/Project_1internship_onssa/version%201/login.html**
 
+Use these credentials to log in:
+
+- **Username:** admin
+- 
+- **Password:** 1234
+
 ---
 
 ## 🌐 **Two Versions of the Application**
