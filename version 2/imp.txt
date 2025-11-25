@@ -24,6 +24,3 @@ which python
 
 
 
-
-database connect in sql shell  :
-\c stock_manager;
