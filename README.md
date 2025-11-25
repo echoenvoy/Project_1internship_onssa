@@ -3,6 +3,8 @@ Stock Manager Pro is a web-based inventory system built with Flask and HTML/CSS/
 ## 🎥 Project Demo Video
 https://drive.google.com/file/d/1qWKB2iVnhDoj8i4UTLiqPhlPdo7NVuue/view?usp=drive_link
 
+
+
 ✔️ Version 1 — Frontend Only (HTML + CSS + JS + LocalStorage)
 
 This version works 100% in the browser.
@@ -19,6 +21,7 @@ Fast + simple
 
 Good for demos, small use cases, or offline mode
 
+
 Limitations:
 
 Data is not shared between devices
@@ -28,6 +31,8 @@ LocalStorage max ~5–10MB
 No real security
 
 Not scalable
+
+
 
 ✔️ Version 2 — Fullstack (Flask Backend + Frontend)
 
@@ -40,6 +45,7 @@ Flask API (Python) → database logic
 JWT / Flask-Login for authentication
 
 Real security, real database, scalable
+
 
 Advantages:
 Can handle many users
