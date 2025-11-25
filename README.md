@@ -20,11 +20,9 @@ No real security
 Not scalable
 
 ✔️ Version 2 — Fullstack (Flask Backend + Frontend)
-
-This version uses:
+This version uses: 
+SAME CODE HTML & CSS
 Flask API (Python) → database logic
-PostgreSQL or SQLite → persistent storage
-HTML/CSS/JS for the frontend
 JWT / Flask-Login for authentication
 Real security, real database, scalable
 
